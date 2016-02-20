@@ -36,7 +36,7 @@ class Node{
   }  
 }
 
-class SingleLL{
+class SingleLinkedList{
 
 public static void main(String args[]){
 
